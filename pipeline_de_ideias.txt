@@ -1,0 +1,3 @@
+	Descrever os dados para o projeto brasil.io
+A idéia é descrever melhor as colunas dos dados para cada dataset que a gente usar de la.
+Depois que a gente concordasse na descrição (e quaisquer detalhes a mais que agente ache importante) para todas as colunas de um dataset que a gente utilizou, mandariamos o PR para o projeto dele no github (ou atraves do meio que eles preferirem)
