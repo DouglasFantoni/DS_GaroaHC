@@ -1,3 +1,9 @@
 	Descrever os dados para o projeto brasil.io
 A idéia é descrever melhor as colunas dos dados para cada dataset que a gente usar de la.
 Depois que a gente concordasse na descrição (e quaisquer detalhes a mais que agente ache importante) para todas as colunas de um dataset que a gente utilizou, mandariamos o PR para o projeto dele no github (ou atraves do meio que eles preferirem)
+	Trabalhar com bigdata
+Trabalhar com datasets grandes (como o de Gastos Diretos do Governo Federal) que não cabem na memória
+Benchmarking
+Otimização dos calculos no pandas e uso do numpy
+Processamento em paralelo em uma máquina usando multiprocessing
+Introdução a arquitetura distribuida (hadoop, spark e dask)
