@@ -1,6 +1,6 @@
-# Repositório central do Data Science Group - Garoa Hacker Clube:
+# Repositório central do Grupo de Ciência de Dados - Garoa Hacker Clube:
 
-[Data Science Group](https://garoa.net.br/wiki/Data_Science_Group)
+[Grupo de Ciência de Dados](https://garoa.net.br/wiki/Grupo_de_Ci%C3%AAncia_de_Dados)
 
 [Garoa Hacker Clube](https://garoa.net.br)
 
