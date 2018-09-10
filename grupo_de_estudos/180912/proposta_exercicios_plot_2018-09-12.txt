@@ -1,0 +1,45 @@
+1) Leitura do link fornecido pelo Victor Antoniassi (principalmente a parte 3): https://blog.dp6.com.br/desafios-e-tend%C3%AAncias-da-visualiza%C3%A7%C3%A3o-de-dados-dataviz-basics-1-de-4-8208cf5fbcb6
+
+2) Selecione o máximo de bibliotecas de visualização de dados que puder usar nas linguagens que você conhecer. Tente usar todas nos exercícios que seguem, da seguinte maneira: selecione uma biblioteca e realize os exercícios que seguem, depois selecione outra biblioteca e tente refazê-lo na outra biblioteca. Jamais use Ctrl+C Ctrl+V ou similares durante o aprendizado: memorizar nomes e sintaxe é fundamental neste momento.
+
+3) Em teoria da informação, sabemos que a auto-informação de um acontecimento de probabilidade p é log2(1/p), em bits, onde log2 representa o logaritmo na base 2. Entropia, por definição, é o valor esperado (média) da auto-informação.
+
+3.1) Crie um gráfico que mostra a auto-informação em função da probabilidade.
+
+3.2) Crie um gráfico que mostra a entropia de um ensaio de Bernoulli (https://pt.wikipedia.org/wiki/Ensaio_de_Bernoulli) para diferentes valores de probabilidade.
+
+4) Criar, em qualquer biblioteca, um scatterplot do resultado de um "XOR" (isto é, os pontos (0, 0) e (1, 1) como pertencentes a uma classe, e os pontos (0, 1) e (1, 0) como pertencentes a outra classe).
+
+4.1) Inserir uma curva nesse gráfico que separe os pontos de "classes" distintas.
+
+4.2) Trocar a representação da curva por representação de áreas (i.e., "pintar" as regiões com cores diferentes).
+
+5) Baixe o CSV em https://pastebin.com/0aZiH9LB e crie um scatterplot dos dados. Tente desenhar uma curva que aproxime esses dados (pode ser "chutando", não é preciso usar nenhuma técnica de regressão).
+
+6) Ler os dados do Titanic pré-processados que pode ser encontrado em https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv
+
+6.1) Identificar quais colunas são numéricas e quais são categóricas;
+
+6.2) Criar diferentes visualizações para a proporção de homens e mulheres que sobreviveram;
+
+6.3) Criar diferentes visualizações para a proporção sobreviventes por classe ("class", primeira/segunda/terceira);
+
+6.4) Criar histograma, KDE e boxplot da tarifa ("fare") paga por todos;
+
+6.5) Criar histograma, KDE e boxplot de idades;
+
+6.6) Dividindo uma coluna para homens e outra para mulheres, e dividindo uma linha para cada classe ("class", primeira/segunda/terceira), criar um histograma de idades com essa "matriz de gráficos" dividido por cores de acordo com o fato de ter sobrevivido ou não;
+
+6.7) Criar um scatterplot de idade por tarifa em que o tamanho do marcador de alguma forma represente o número de familiares no navio, a cor represente o fato de ser homem ou mulher, e o formato representa se o indivíduo sobreviveu ou não. Dica: "sibsp" é o número de "siblings/spouses" (irmãos/irmãs/marido/esposa) e "parch" o número de "parents/children" (pai/mãe/filhos/filhas) que embarcaram.
+
+7) Seja o som do https://freesound.org/people/HeyKey1800/sounds/437526/, abra-o para acessar os dados (e.g. com scipy.io.wavfile).
+
+7.1) Crie o gráfico da diferença entre o canal da esquerda e o canal da direita, no tempo.
+
+7.2) Crie o gráfico da espectro de um dos canais ou da diferença. Sugestões: tamanho da janela de análise de 2048 amostras, exibir de 0 a 5kHz.
+
+7.3) Veja o espectro na faixa de 0 a 300Hz, e tamanho de janela de análise de 32768. Com isso, você consegue encontrar as notas sendo tocadas?
+
+8) Encontre na internet 3 imagens de gráficos que estejam com os dados, e reconstrua o gráfico tomando atenção com os detalhes (tamanhos, textos, ticks, limites, cores, tipo de escala, grid, espaços, legenda, etc.).
+
+9) Crie exemplos para pelo menos 2 tipos de gráficos que não foram utilizados nos exercícios anteriores.
