@@ -1,3 +1,7 @@
+Segue uma lista de exercícios sobre DataViz (visualização de dados),
+proposta por Danilo J. S. Bellini
+para ser realizada nos próximos encontros do grupo.
+
 1) Leitura do link fornecido pelo Victor Antoniassi (principalmente a parte 3): https://blog.dp6.com.br/desafios-e-tend%C3%AAncias-da-visualiza%C3%A7%C3%A3o-de-dados-dataviz-basics-1-de-4-8208cf5fbcb6
 
 2) Selecione o máximo de bibliotecas de visualização de dados que puder usar nas linguagens que você conhecer. Tente usar todas nos exercícios que seguem, da seguinte maneira: selecione uma biblioteca e realize os exercícios que seguem, depois selecione outra biblioteca e tente refazê-lo na outra biblioteca. Jamais use Ctrl+C Ctrl+V ou similares durante o aprendizado: memorizar nomes e sintaxe é fundamental neste momento.
